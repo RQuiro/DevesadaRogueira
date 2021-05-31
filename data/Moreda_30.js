@@ -1,0 +1,1 @@
+var json_Moreda_30 = {"type":"FeatureCollection","name":"Moreda_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"CONCELLO":"Folgoso do Courel","NOMBRE":"Moreda","PARROQUIA":"Seoane do Courel (San Xoán)"},"geometry":{"type":"MultiPoint","coordinates":[[-7.121154279050755,42.628614420677245]]}}]}
